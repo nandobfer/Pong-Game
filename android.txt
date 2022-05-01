@@ -1,3 +1,3 @@
-title=Pode Misturar
+title=Pong Game
 author=Fernando Burgos
 orientation=landscape
